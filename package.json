@@ -12,7 +12,7 @@
     "cross-env": "^5.0.5",
     "fuzzer": "^0.2.0",
     "istanbul": "^0.3.5",
-    "json5": "^0.5.1",
+    "json5": "^1.0.2",
     "marked": "^0.8.0",
     "random-js": "^2.1.0",
     "stack-trace": "0.0.9",
